@@ -12,7 +12,7 @@ class FileIterator:
         return self
 
     def __next__(self):
-        if self.current_index - 1 < len(self.files):
+        if self.current_index - 1 < len(self.files)-1:
             file_path = os.path.join(self.directory, self.files[self.current_index])
 
             current_file = open(file_path)
