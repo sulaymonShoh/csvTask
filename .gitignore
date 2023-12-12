@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 .idea
 *$.zip
-.zips
+zips
 
 # C extensions
 *.so

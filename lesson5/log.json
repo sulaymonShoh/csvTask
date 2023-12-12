@@ -10,5 +10,29 @@
         "receiver": "Soli",
         "amount": 1000.0,
         "successful": true
+    },
+    {
+        "sender": "Ali",
+        "receiver": "Vali",
+        "amount": 3000.0,
+        "successful": false
+    },
+    {
+        "sender": "Vali",
+        "receiver": "Soli",
+        "amount": 1000.0,
+        "successful": true
+    },
+    {
+        "sender": "Ali",
+        "receiver": "Vali",
+        "amount": 100.0,
+        "successful": true
+    },
+    {
+        "sender": "Vali",
+        "receiver": "Soli",
+        "amount": 5000.0,
+        "successful": false
     }
 ]
