@@ -1,0 +1,14 @@
+[
+    {
+        "sender": "Ali",
+        "receiver": "Vali",
+        "amount": 1000.0,
+        "successful": true
+    },
+    {
+        "sender": "Vali",
+        "receiver": "Soli",
+        "amount": 1000.0,
+        "successful": true
+    }
+]
