@@ -3,6 +3,13 @@ import requests
 import os
 
 
+"""
+ - Berilgan urldan rasmlarni olish - done
+ - ularni idsi bilan nomlangan faylga yozish - done
+ - yuqoridagi tasklarni bajarishda multithreadingni qollash - done
+"""
+
+
 def write_image(f, data):
     with open(f'{f}.jpg', 'wb') as image:
         image.write(data)
