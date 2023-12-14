@@ -1,0 +1,18 @@
+[
+    {
+        "filename": "file1.txt",
+        "yigindi": "75"
+    },
+    {
+        "filename": "file2.txt",
+        "yigindi": "93"
+    },
+    {
+        "filename": "file3.txt",
+        "yigindi": "0"
+    },
+    {
+        "filename": "file4.txt",
+        "yigindi": "103"
+    }
+]
